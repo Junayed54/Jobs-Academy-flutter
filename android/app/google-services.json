@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "524525708923",
+    "project_id": "jobs-academy",
+    "storage_bucket": "jobs-academy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524525708923:android:0cd8a2c80a9b8f5f7ea4de",
+        "android_client_info": {
+          "package_name": "com.Bridgers.jobsacademy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFjgKinTG9Aq7-J7IOGSzfOVqSn2ckobM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524525708923:android:c426002cc3405f597ea4de",
+        "android_client_info": {
+          "package_name": "com.example.jobsacademy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFjgKinTG9Aq7-J7IOGSzfOVqSn2ckobM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
